@@ -1,0 +1,24 @@
+{
+  "name": "prove-google-sheets-as-db",
+  "version": "1.0.0",
+  "description": "Using google-spreadsheet (https://www.npmjs.com/package/google-spreadsheet) npm module.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UniBreakfast/prove-google-sheets-as-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UniBreakfast/prove-google-sheets-as-db/issues"
+  },
+  "homepage": "https://github.com/UniBreakfast/prove-google-sheets-as-db#readme",
+  "dependencies": {
+    "google-spreadsheet": "^3.2.0"
+  }
+}
